@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Prasad! 
+🚀 Developer | 💻 Competitive Programmer | 🌱 Lifelong Learner  
 
-<!--
-**PrasadYewale/PrasadYewale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+- **Languages**: Java, C++, Python, JavaScript
+- **Frontend**: HTML, CSS, Bootstrap, React.js
+- **Backend**: Django, Node.js
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: Git, GitHub, Figma, Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasad&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad&layout=compact&theme=radical)
+
+---
+
+## 📢 Find Me Online
+- [LinkedIn](https://linkedin.com/in/yourusername)  
+- [Portfolio](https://yourportfolio.com)  
+- [Blog](https://yourblog.com)
+
+---
+
+## 💡 Fun Facts
+- 🌟 I love working on AI and Machine Learning projects.  
+- 🏆 Recently won 2nd place in Code Arena!  
+- 🎮 Gaming and coding go hand in hand for me!
