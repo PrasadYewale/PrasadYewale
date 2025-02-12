@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadyewale&label=Profile%20views&color=0e75b6&style=flat" alt="prasadyewale" /> </p>
 
-- 🔭 I’m currently working on **AI Trip Planner**
+- 🔭 I’m currently working on **GenAI Projects**
 
-- 🌱 I’m currently learning **NextJS , TypeScript**
+- 🌱 I’m currently learning **GenAI**
 
 - 💬 Ask me about **Java , JavaScript , ReactJS**
 
