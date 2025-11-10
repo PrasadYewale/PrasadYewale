@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadyewale&label=Profile%20views&color=0e75b6&style=flat" alt="prasadyewale" /> </p>
 
-- 🔭 I’m currently working on **GenAI Projects**
+- 🔭 I’m currently working on **Spring Boot Backend Development**
 
 - 🌱 I’m currently learning **GenAI**
 
